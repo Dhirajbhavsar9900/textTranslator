@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import Dropdown from "./components/Dropdown";
 import { supportedLanguages } from "./data";
 import axios from "axios";
-import { FaArrowRightArrowLeft } from "react-icons/fa6";
 
 import { ToastContainer } from "react-toastify";
 import { toast } from "react-toastify";
